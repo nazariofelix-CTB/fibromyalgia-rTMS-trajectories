@@ -1,0 +1,6 @@
+,FIQ_Total_Score,FIQ_Total_Score,WPI_TOTAL,WPI_TOTAL,Fatigue_SSS,Fatigue_SSS,Sleep_SSS,Sleep_SSS,Cognitive_SSS,Cognitive_SSS
+,mean,std,mean,std,mean,std,mean,std,mean,std
+Cluster,,,,,,,,,,
+0,57.71,11.72,7.93,3.98,1.94,0.54,1.58,0.74,0.99,0.74
+1,72.82,8.33,14.34,3.36,1.92,0.27,2.22,0.71,1.82,0.66
+2,79.38,8.69,14.42,3.97,2.99,0.1,2.65,0.6,2.13,0.78
