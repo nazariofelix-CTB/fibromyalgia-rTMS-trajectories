@@ -69,3 +69,7 @@ Reference:
 
 Corresponding Author: Nazario Félix González – Center for Biomedical Technology (CTB-UPM), Universidad Politécnica de Madrid. 
 nazario.felix@ctb.upm.es
+
+## ⚖️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
